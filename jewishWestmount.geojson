@@ -1,0 +1,1919 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-04-23T21:05:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9691617",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1250",
+        "addr:street": "Chemin de la Forêt",
+        "landuse": "cemetery",
+        "name": "Cimetière espagnol et portuguais Shearith Israel",
+        "name:en": "Spanish and Portuguese Congregation Cemetery",
+        "religion": "jewish",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.5991407,
+              45.5112429
+            ],
+            [
+              -73.6001336,
+              45.5116371
+            ],
+            [
+              -73.6002614,
+              45.5110057
+            ],
+            [
+              -73.6003425,
+              45.5106045
+            ],
+            [
+              -73.6003506,
+              45.5104478
+            ],
+            [
+              -73.6000913,
+              45.510336
+            ],
+            [
+              -73.5996982,
+              45.5108733
+            ],
+            [
+              -73.5994717,
+              45.5108034
+            ],
+            [
+              -73.5991407,
+              45.5112429
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9691617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/20415445",
+        "landuse": "cemetery",
+        "name": "Cimetière Baron-de-Hirsch",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6572043,
+              45.4996796
+            ],
+            [
+              -73.6510632,
+              45.5006089
+            ],
+            [
+              -73.652138,
+              45.504252
+            ],
+            [
+              -73.6563303,
+              45.5037536
+            ],
+            [
+              -73.656014,
+              45.5029668
+            ],
+            [
+              -73.6583271,
+              45.5026908
+            ],
+            [
+              -73.6582241,
+              45.5024211
+            ],
+            [
+              -73.6572043,
+              45.4996796
+            ]
+          ]
+        ]
+      },
+      "id": "way/20415445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46867686",
+        "amenity": "place_of_worship",
+        "attribution": "Natural Resources Canada",
+        "building": "yes",
+        "canvec:CODE": "2010422",
+        "canvec:UUID": "11CF452AD6BAE5F4E0409C8467120387",
+        "denomination": "orthodox",
+        "religion": "jewish",
+        "source": "CanVec_Import_2009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.5946542,
+              45.5196408
+            ],
+            [
+              -73.5945478,
+              45.5197642
+            ],
+            [
+              -73.594574,
+              45.5197796
+            ],
+            [
+              -73.5944969,
+              45.5198775
+            ],
+            [
+              -73.5951461,
+              45.5201578
+            ],
+            [
+              -73.5953595,
+              45.5199221
+            ],
+            [
+              -73.5946542,
+              45.5196408
+            ]
+          ]
+        ]
+      },
+      "id": "way/46867686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47175622",
+        "addr:city": "Westmount",
+        "addr:housenumber": "450",
+        "addr:street": "Avenue Kensington",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "long_name": "Congrégation Shaar Hashomayim",
+        "name": "Shaar Hashomayim",
+        "phone": "+1-514-937-9471",
+        "religion": "jewish",
+        "source": "CanVec_Import_2009",
+        "website": "https://www.shaarhashomayim.org/",
+        "wheelchair": "no",
+        "wikidata": "Q5160667",
+        "wikipedia": "fr:Shaar Hashomayim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.5977667,
+              45.4843767
+            ],
+            [
+              -73.597652,
+              45.4845269
+            ],
+            [
+              -73.5977885,
+              45.4845919
+            ],
+            [
+              -73.5976931,
+              45.4847169
+            ],
+            [
+              -73.5979637,
+              45.4848282
+            ],
+            [
+              -73.5977418,
+              45.4850811
+            ],
+            [
+              -73.5982625,
+              45.4853087
+            ],
+            [
+              -73.5982929,
+              45.4852727
+            ],
+            [
+              -73.5983513,
+              45.4853046
+            ],
+            [
+              -73.5984248,
+              45.4852702
+            ],
+            [
+              -73.5985182,
+              45.4852015
+            ],
+            [
+              -73.5985392,
+              45.4851663
+            ],
+            [
+              -73.5985798,
+              45.4851211
+            ],
+            [
+              -73.5986188,
+              45.4851323
+            ],
+            [
+              -73.5986665,
+              45.4850764
+            ],
+            [
+              -73.5986258,
+              45.4850603
+            ],
+            [
+              -73.5986612,
+              45.4850231
+            ],
+            [
+              -73.5987179,
+              45.4850305
+            ],
+            [
+              -73.5988771,
+              45.4848382
+            ],
+            [
+              -73.5985883,
+              45.4847284
+            ],
+            [
+              -73.5986163,
+              45.4847013
+            ],
+            [
+              -73.5983384,
+              45.48459
+            ],
+            [
+              -73.5982999,
+              45.4846244
+            ],
+            [
+              -73.5982497,
+              45.4846064
+            ],
+            [
+              -73.5981462,
+              45.4847142
+            ],
+            [
+              -73.5979327,
+              45.4846335
+            ],
+            [
+              -73.5980475,
+              45.4844833
+            ],
+            [
+              -73.5977667,
+              45.4843767
+            ]
+          ]
+        ]
+      },
+      "id": "way/47175622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47332060",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5237",
+        "addr:postcode": "H3X 1V4",
+        "addr:street": "Clanranald Avenue",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Congregation Chevra Kadisha B'nai Jacob Beit Hazikaron Beth Hillel",
+        "phone": "+1 514-482-3366",
+        "religion": "jewish",
+        "source": "CanVec_Import_2009",
+        "website": "http://www.thechevra.ca/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6335154,
+              45.482268
+            ],
+            [
+              -73.6331772,
+              45.4826315
+            ],
+            [
+              -73.6337386,
+              45.4828735
+            ],
+            [
+              -73.6341207,
+              45.4824378
+            ],
+            [
+              -73.6339275,
+              45.4823545
+            ],
+            [
+              -73.6338003,
+              45.4824995
+            ],
+            [
+              -73.633678,
+              45.4824468
+            ],
+            [
+              -73.6337384,
+              45.482351
+            ],
+            [
+              -73.6337426,
+              45.4823108
+            ],
+            [
+              -73.6337239,
+              45.4822752
+            ],
+            [
+              -73.6336389,
+              45.4822386
+            ],
+            [
+              -73.6335756,
+              45.4822418
+            ],
+            [
+              -73.6335154,
+              45.482268
+            ]
+          ]
+        ]
+      },
+      "id": "way/47332060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47332068",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5575",
+        "addr:postcode": "H3X 2C9",
+        "addr:province": "Québec",
+        "addr:street": "Chemin de la Côte-Saint-Luc",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Shaare Zion Congregation",
+        "phone": "+1-514-481-7727",
+        "religion": "jewish",
+        "website": "http://www.shaarezion.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6283939,
+              45.4788984
+            ],
+            [
+              -73.6285242,
+              45.4789617
+            ],
+            [
+              -73.6289896,
+              45.4791671
+            ],
+            [
+              -73.6290692,
+              45.4790775
+            ],
+            [
+              -73.6291249,
+              45.4790147
+            ],
+            [
+              -73.6285366,
+              45.4787439
+            ],
+            [
+              -73.6283939,
+              45.4788984
+            ]
+          ]
+        ]
+      },
+      "id": "way/47332068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47332091",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "denomination": "sephardi",
+        "name": "Shearith Israel - Spanish and Portuguese Synagogue",
+        "religion": "jewish",
+        "wikidata": "Q3481689",
+        "wikipedia:fr": "Shearith Israël"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6315647,
+              45.4895029
+            ],
+            [
+              -73.631339,
+              45.489757
+            ],
+            [
+              -73.6316785,
+              45.4899051
+            ],
+            [
+              -73.6315025,
+              45.4900947
+            ],
+            [
+              -73.6316952,
+              45.4901779
+            ],
+            [
+              -73.6317531,
+              45.4901027
+            ],
+            [
+              -73.6318578,
+              45.4899847
+            ],
+            [
+              -73.6320061,
+              45.4898178
+            ],
+            [
+              -73.6320844,
+              45.4897296
+            ],
+            [
+              -73.6317588,
+              45.4895876
+            ],
+            [
+              -73.6315647,
+              45.4895029
+            ]
+          ]
+        ]
+      },
+      "id": "way/47332091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/47332124",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5855",
+        "addr:postcode": "H3W 2K1",
+        "addr:province": "QC",
+        "addr:street": "Rue Lavoie",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "denomination": "orthodox",
+        "name": "Chevra Shas Adath Jeshurun Hadrath Kodesh",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6329231,
+              45.4954938
+            ],
+            [
+              -73.6331819,
+              45.4956065
+            ],
+            [
+              -73.6333473,
+              45.4954197
+            ],
+            [
+              -73.6330801,
+              45.4953035
+            ],
+            [
+              -73.6329112,
+              45.4954885
+            ],
+            [
+              -73.6329231,
+              45.4954938
+            ]
+          ]
+        ]
+      },
+      "id": "way/47332124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205240534",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2610",
+        "addr:postcode": "H3S 1J6",
+        "addr:street": "Avenue Barclay",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "denomination": "orthodox",
+        "name": "Tefil Le Moishe",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6266986,
+              45.5118548
+            ],
+            [
+              -73.6266396,
+              45.5119215
+            ],
+            [
+              -73.6267161,
+              45.511955
+            ],
+            [
+              -73.6266838,
+              45.5119926
+            ],
+            [
+              -73.6268046,
+              45.5120436
+            ],
+            [
+              -73.6268954,
+              45.5119379
+            ],
+            [
+              -73.6266986,
+              45.5118548
+            ]
+          ]
+        ]
+      },
+      "id": "way/205240534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218551933",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3919",
+        "addr:province": "QC",
+        "addr:street": "Rue Clark",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "The Bagg Street Shul",
+        "religion": "jewish",
+        "service_times": "Saturday 09:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.5786291,
+              45.5159782
+            ],
+            [
+              -73.578542,
+              45.5160786
+            ],
+            [
+              -73.5784661,
+              45.5161611
+            ],
+            [
+              -73.5785532,
+              45.5162015
+            ],
+            [
+              -73.578716,
+              45.5160168
+            ],
+            [
+              -73.5786291,
+              45.5159782
+            ]
+          ]
+        ]
+      },
+      "id": "way/218551933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227726072",
+        "addr:housenumber": "1905",
+        "addr:postcode": "H3S 1N8",
+        "addr:street": "Avenue Van Horne",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "denomination": "ashkenazi",
+        "name": "Congregation Ohr Somayach",
+        "name:en": "Congregation Ohr Somayach",
+        "name:fr": "Congrégation Ohr Somayach",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6218429,
+              45.5133038
+            ],
+            [
+              -73.6216274,
+              45.5132204
+            ],
+            [
+              -73.6215734,
+              45.5132889
+            ],
+            [
+              -73.621789,
+              45.5133723
+            ],
+            [
+              -73.6218429,
+              45.5133038
+            ]
+          ]
+        ]
+      },
+      "id": "way/227726072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227726073",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6235",
+        "addr:postcode": "H3S 2M8",
+        "addr:street": "Chemin Hillsdale",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "orthodox",
+        "name": "Young Israel of Montreal Synagogue",
+        "name:en": "Young Israel of Montreal Synagogue",
+        "name:fr": "Synagogue Jeune Israel de Montréal",
+        "phone": "+1-514-737-6589",
+        "religion": "jewish",
+        "website": "http://www.youngisraelmtl.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6239244,
+              45.5114033
+            ],
+            [
+              -73.6240914,
+              45.511477
+            ],
+            [
+              -73.6242243,
+              45.5113289
+            ],
+            [
+              -73.6247579,
+              45.5115641
+            ],
+            [
+              -73.6249278,
+              45.5113749
+            ],
+            [
+              -73.6242272,
+              45.5110661
+            ],
+            [
+              -73.6239244,
+              45.5114033
+            ]
+          ]
+        ]
+      },
+      "id": "way/227726073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340597030",
+        "addr:city": "Westmount",
+        "addr:housenumber": "4100",
+        "addr:postcode": "H3Z 1A5",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Temple Emanuel El Beth Shalom",
+        "phone": "+1-514-937-3575",
+        "religion": "jewish",
+        "website": "https://www.templemontreal.ca/",
+        "wikidata": "Q7698517",
+        "wikipedia": "en:Temple Emanu-El-Beth Sholom"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.5904565,
+              45.4886954
+            ],
+            [
+              -73.5905352,
+              45.4887292
+            ],
+            [
+              -73.590659,
+              45.4885874
+            ],
+            [
+              -73.5906299,
+              45.4885749
+            ],
+            [
+              -73.5907509,
+              45.4884364
+            ],
+            [
+              -73.590378,
+              45.4882764
+            ],
+            [
+              -73.5899343,
+              45.4887846
+            ],
+            [
+              -73.5902576,
+              45.4889233
+            ],
+            [
+              -73.5904565,
+              45.4886954
+            ]
+          ]
+        ]
+      },
+      "id": "way/340597030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/354244758",
+        "addr:city": "Montreal",
+        "addr:housenumber": "5555",
+        "addr:postcode": "H2V 4B5",
+        "addr:street": "Rue Hutchison",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Congregation Yetev Lev",
+        "phone": "+1-514-272-2757",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6028809,
+              45.521612
+            ],
+            [
+              -73.6028662,
+              45.5216167
+            ],
+            [
+              -73.602661,
+              45.5218469
+            ],
+            [
+              -73.6028367,
+              45.5219239
+            ],
+            [
+              -73.6028973,
+              45.5218545
+            ],
+            [
+              -73.6029064,
+              45.5218441
+            ],
+            [
+              -73.6028809,
+              45.5218318
+            ],
+            [
+              -73.6029493,
+              45.5217529
+            ],
+            [
+              -73.6029775,
+              45.5217642
+            ],
+            [
+              -73.6030431,
+              45.521694
+            ],
+            [
+              -73.6030513,
+              45.5216853
+            ],
+            [
+              -73.6028809,
+              45.521612
+            ]
+          ]
+        ]
+      },
+      "id": "way/354244758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361354965",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5215",
+        "addr:postcode": "H3W 2W4",
+        "addr:street": "Avenue de Westbury",
+        "amenity": "place_of_worship",
+        "building": "synagpgue",
+        "name": "Congregation Zichron Kedoshim",
+        "phone": "+1-514-735-2113",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6298889,
+              45.4862883
+            ],
+            [
+              -73.6295881,
+              45.4861481
+            ],
+            [
+              -73.6294217,
+              45.486323
+            ],
+            [
+              -73.6297403,
+              45.4864607
+            ],
+            [
+              -73.6298889,
+              45.4862883
+            ]
+          ]
+        ]
+      },
+      "id": "way/361354965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361354967",
+        "addr:city": "Mont-Royal",
+        "addr:housenumber": "1000",
+        "addr:street": "Chemin Lucerne",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Congregation Beth El",
+        "phone": "+1-514-738-4766",
+        "religion": "jewish",
+        "website": "https://beth-el.ca/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6486074,
+              45.5035994
+            ],
+            [
+              -73.6487224,
+              45.5036304
+            ],
+            [
+              -73.6487295,
+              45.5036142
+            ],
+            [
+              -73.6490534,
+              45.5037048
+            ],
+            [
+              -73.649087,
+              45.503649
+            ],
+            [
+              -73.6491365,
+              45.5036651
+            ],
+            [
+              -73.6491896,
+              45.5035733
+            ],
+            [
+              -73.6491472,
+              45.5035659
+            ],
+            [
+              -73.649225,
+              45.5033984
+            ],
+            [
+              -73.648887,
+              45.503298
+            ],
+            [
+              -73.6489118,
+              45.5032372
+            ],
+            [
+              -73.6485225,
+              45.5031256
+            ],
+            [
+              -73.6485066,
+              45.5031343
+            ],
+            [
+              -73.648388,
+              45.5030995
+            ],
+            [
+              -73.6483579,
+              45.5031504
+            ],
+            [
+              -73.6481597,
+              45.5034803
+            ],
+            [
+              -73.6483898,
+              45.5035361
+            ],
+            [
+              -73.648434,
+              45.503453
+            ],
+            [
+              -73.648657,
+              45.503515
+            ],
+            [
+              -73.6486074,
+              45.5035994
+            ]
+          ]
+        ]
+      },
+      "id": "way/361354967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361641393",
+        "addr:city": "Hampstead",
+        "addr:housenumber": "18",
+        "addr:postcode": "H3X 1A6",
+        "addr:province": "Québec",
+        "addr:street": "Chemin Cleve",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Congregation Dorshei Emet",
+        "phone": "+1-514-486-9400",
+        "religion": "jewish",
+        "website": "https://www.dorsheiemet.com/",
+        "wikidata": "Q5160640",
+        "wikipedia": "en:Congregation Dorshei Emet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6531414,
+              45.4862315
+            ],
+            [
+              -73.6530109,
+              45.4863693
+            ],
+            [
+              -73.6530257,
+              45.4863823
+            ],
+            [
+              -73.6529981,
+              45.4863942
+            ],
+            [
+              -73.6529704,
+              45.4864133
+            ],
+            [
+              -73.6529426,
+              45.4864445
+            ],
+            [
+              -73.65304,
+              45.4864872
+            ],
+            [
+              -73.6530439,
+              45.4865043
+            ],
+            [
+              -73.6530562,
+              45.486519
+            ],
+            [
+              -73.6530824,
+              45.4865309
+            ],
+            [
+              -73.6531111,
+              45.4865336
+            ],
+            [
+              -73.6531347,
+              45.4865304
+            ],
+            [
+              -73.6532228,
+              45.4865728
+            ],
+            [
+              -73.6532601,
+              45.4865398
+            ],
+            [
+              -73.6532697,
+              45.48651
+            ],
+            [
+              -73.6532798,
+              45.4865159
+            ],
+            [
+              -73.653356,
+              45.486432
+            ],
+            [
+              -73.653374,
+              45.48644
+            ],
+            [
+              -73.6534017,
+              45.4864096
+            ],
+            [
+              -73.6533876,
+              45.4863974
+            ],
+            [
+              -73.6534214,
+              45.4863617
+            ],
+            [
+              -73.6531414,
+              45.4862315
+            ]
+          ]
+        ]
+      },
+      "id": "way/361641393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/382406023",
+        "addr:city": "Outremont",
+        "addr:housenumber": "1075",
+        "addr:street": "Rue Bernard Ouest",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Congregation Machzikei Torah of Montreal",
+        "phone": "+1-514-274-0564",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.607354,
+              45.5221249
+            ],
+            [
+              -73.6074157,
+              45.5220601
+            ],
+            [
+              -73.607411,
+              45.5220584
+            ],
+            [
+              -73.607245,
+              45.5219837
+            ],
+            [
+              -73.6072377,
+              45.5219901
+            ],
+            [
+              -73.6072249,
+              45.521984
+            ],
+            [
+              -73.6072088,
+              45.5220013
+            ],
+            [
+              -73.6072186,
+              45.5220065
+            ],
+            [
+              -73.6071813,
+              45.5220483
+            ],
+            [
+              -73.6072548,
+              45.5220826
+            ],
+            [
+              -73.6072474,
+              45.5220904
+            ],
+            [
+              -73.6072866,
+              45.522108
+            ],
+            [
+              -73.6072957,
+              45.5220979
+            ],
+            [
+              -73.607354,
+              45.5221249
+            ]
+          ]
+        ]
+      },
+      "id": "way/382406023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388962864",
+        "amenity": "school",
+        "name": "Académie Beth Rivkah",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6464495,
+              45.4940999
+            ],
+            [
+              -73.6461332,
+              45.4939543
+            ],
+            [
+              -73.6459087,
+              45.4940636
+            ],
+            [
+              -73.6449869,
+              45.4952226
+            ],
+            [
+              -73.6453537,
+              45.4953925
+            ],
+            [
+              -73.6463345,
+              45.4943467
+            ],
+            [
+              -73.6464495,
+              45.4940999
+            ]
+          ]
+        ]
+      },
+      "id": "way/388962864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389071276",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5850",
+        "addr:postcode": "H3W 2R5",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Victoria",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Grand Rabbinat du Québec",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6355374,
+              45.4929544
+            ],
+            [
+              -73.6353138,
+              45.4928632
+            ],
+            [
+              -73.6351552,
+              45.4930362
+            ],
+            [
+              -73.6352184,
+              45.493063
+            ],
+            [
+              -73.6351982,
+              45.493085
+            ],
+            [
+              -73.6352603,
+              45.4931132
+            ],
+            [
+              -73.6352469,
+              45.4931294
+            ],
+            [
+              -73.6352823,
+              45.4931458
+            ],
+            [
+              -73.6352675,
+              45.4931628
+            ],
+            [
+              -73.6354211,
+              45.493234
+            ],
+            [
+              -73.6354539,
+              45.493195
+            ],
+            [
+              -73.6356732,
+              45.4932935
+            ],
+            [
+              -73.6356987,
+              45.4932647
+            ],
+            [
+              -73.6357364,
+              45.493222
+            ],
+            [
+              -73.6357541,
+              45.4932299
+            ],
+            [
+              -73.6358466,
+              45.4931278
+            ],
+            [
+              -73.635632,
+              45.4930303
+            ],
+            [
+              -73.6355475,
+              45.4929929
+            ],
+            [
+              -73.6355374,
+              45.4929544
+            ]
+          ]
+        ]
+      },
+      "id": "way/389071276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389288943",
+        "addr:city": "Montréal",
+        "addr:postcode": "H3S 1N7",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Van Horne",
+        "amenity": "social_facility",
+        "building": "apartments",
+        "name": "Édifice Talia Fonfeder",
+        "religion": "jewish",
+        "social_facility": "group_home",
+        "social_facility:for": "senior"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6207445,
+              45.5130518
+            ],
+            [
+              -73.620702,
+              45.5130988
+            ],
+            [
+              -73.6206967,
+              45.5130965
+            ],
+            [
+              -73.6206006,
+              45.5132028
+            ],
+            [
+              -73.6206095,
+              45.5132068
+            ],
+            [
+              -73.6205962,
+              45.5132215
+            ],
+            [
+              -73.6206747,
+              45.5132563
+            ],
+            [
+              -73.6206845,
+              45.5132455
+            ],
+            [
+              -73.6210079,
+              45.5133936
+            ],
+            [
+              -73.6210585,
+              45.5133376
+            ],
+            [
+              -73.6210312,
+              45.5133255
+            ],
+            [
+              -73.6210718,
+              45.5132807
+            ],
+            [
+              -73.6208471,
+              45.513181
+            ],
+            [
+              -73.6208579,
+              45.5131689
+            ],
+            [
+              -73.6207761,
+              45.5131326
+            ],
+            [
+              -73.6208192,
+              45.5130849
+            ],
+            [
+              -73.6207445,
+              45.5130518
+            ]
+          ]
+        ]
+      },
+      "id": "way/389288943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390570212",
+        "amenity": "school",
+        "name": "Hezliah High School",
+        "name:en": "Hezliah High School",
+        "name:fr": "École secondaire Herzliah",
+        "operator": "United Talmud Torahs of Montreal",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6308526,
+              45.4907905
+            ],
+            [
+              -73.6311734,
+              45.4909117
+            ],
+            [
+              -73.6314487,
+              45.4905978
+            ],
+            [
+              -73.6314011,
+              45.4905206
+            ],
+            [
+              -73.631197,
+              45.4904289
+            ],
+            [
+              -73.6311743,
+              45.4904322
+            ],
+            [
+              -73.6308526,
+              45.4907905
+            ]
+          ]
+        ]
+      },
+      "id": "way/390570212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390570304",
+        "amenity": "school",
+        "name": "Talmud Torah Elementary School",
+        "name:fr": "École primaire Talmud Torah",
+        "operator": "United Talmud Torahs of Montreal",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.631755,
+              45.4902226
+            ],
+            [
+              -73.6316952,
+              45.4901779
+            ],
+            [
+              -73.6315025,
+              45.4900947
+            ],
+            [
+              -73.6315124,
+              45.4900618
+            ],
+            [
+              -73.6311743,
+              45.4904322
+            ],
+            [
+              -73.631197,
+              45.4904289
+            ],
+            [
+              -73.631403,
+              45.4905203
+            ],
+            [
+              -73.6314422,
+              45.49053
+            ],
+            [
+              -73.6315907,
+              45.4904023
+            ],
+            [
+              -73.631755,
+              45.4902226
+            ]
+          ]
+        ]
+      },
+      "id": "way/390570304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398835680",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6850",
+        "addr:street": "Avenue Durocher",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Congregation Belz",
+        "phone": "+1-514-270-5086",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6150835,
+              45.5256107
+            ],
+            [
+              -73.6149154,
+              45.5255104
+            ],
+            [
+              -73.6149032,
+              45.5255204
+            ],
+            [
+              -73.614602,
+              45.5253406
+            ],
+            [
+              -73.6144708,
+              45.5254485
+            ],
+            [
+              -73.6147821,
+              45.5256343
+            ],
+            [
+              -73.6147572,
+              45.5256547
+            ],
+            [
+              -73.6149082,
+              45.52576
+            ],
+            [
+              -73.6150434,
+              45.5256448
+            ],
+            [
+              -73.6150835,
+              45.5256107
+            ]
+          ]
+        ]
+      },
+      "id": "way/398835680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671141062",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1250",
+        "addr:street": "Chemin de la Forêt",
+        "landuse": "cemetery",
+        "name": "Cimetière Shaar Hashomaym",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6001336,
+              45.5116371
+            ],
+            [
+              -73.5991407,
+              45.5112429
+            ],
+            [
+              -73.5986417,
+              45.5119055
+            ],
+            [
+              -73.5983375,
+              45.5117979
+            ],
+            [
+              -73.597892,
+              45.5123986
+            ],
+            [
+              -73.5970518,
+              45.5125866
+            ],
+            [
+              -73.5970163,
+              45.5129743
+            ],
+            [
+              -73.5974268,
+              45.5131422
+            ],
+            [
+              -73.5993279,
+              45.5128439
+            ],
+            [
+              -73.5998572,
+              45.5122805
+            ],
+            [
+              -73.6000325,
+              45.5121556
+            ],
+            [
+              -73.6001336,
+              45.5116371
+            ]
+          ]
+        ]
+      },
+      "id": "way/671141062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1003040290",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5380",
+        "addr:postcode": "H3X 1J2",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Bourret",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Centre Communautaire des Juifs de Russie",
+        "name:en": "Jewish Russian Community Center of Montreal",
+        "official_name": "David And Eda Schottenstein Chabad Community Centre",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.6401726,
+              45.4866692
+            ],
+            [
+              -73.6402514,
+              45.486581
+            ],
+            [
+              -73.6399404,
+              45.4864436
+            ],
+            [
+              -73.639861,
+              45.4865319
+            ],
+            [
+              -73.6400618,
+              45.4866207
+            ],
+            [
+              -73.6401726,
+              45.4866692
+            ]
+          ]
+        ]
+      },
+      "id": "way/1003040290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818377619",
+        "addr:city": "Outremont",
+        "addr:housenumber": "6019",
+        "addr:postcode": "H2V 3Y7",
+        "addr:province": "QC",
+        "addr:street": "Avenue Durocher",
+        "amenity": "place_of_worship",
+        "denomination": "hasidic",
+        "name": "Congrégation Toldos Yakov Yosef of Skver",
+        "name:en": "Congregation Toldos Yakov Yosef of Skver",
+        "phone": "+1-514-274-8917",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6086632,
+          45.5233046
+        ]
+      },
+      "id": "node/818377619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7523908841",
+        "amenity": "place_of_worship",
+        "name": "Congregation Lubavitch shull",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6428447,
+          45.4926203
+        ]
+      },
+      "id": "node/7523908841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7523908842",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5150",
+        "addr:postcode": "H3W 1G1",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Plamondon",
+        "amenity": "place_of_worship",
+        "attribution": "Natural Resources Canada",
+        "canvec:CODE": "2010392",
+        "name": "Shomrim Laboker Beth Yehuda Shaare Tefillah Beth Hamidrash Hagodol Tifereth Israel",
+        "religion": "jewish",
+        "source": "CanVec_Import_2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6436276,
+          45.4924407
+        ]
+      },
+      "id": "node/7523908842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8949962658",
+        "addr:city": "Mont-Royal",
+        "addr:housenumber": "2355",
+        "addr:postcode": "H3S 1C6",
+        "addr:street": "Avenue Ekers",
+        "building": "school",
+        "name": "École Première Mesifta du Canada",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6290902,
+          45.5147659
+        ]
+      },
+      "id": "node/8949962658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8949962659",
+        "addr:city": "Mont-Royal",
+        "addr:housenumber": "2325",
+        "addr:postcode": "H3S 1C6",
+        "addr:street": "Avenue Ekers",
+        "alt_name": "Congrégation Première Mesifta du Canada",
+        "amenity": "place_of_worship",
+        "denomination": "orthodox",
+        "name": "Mesifta Reishis Chochma",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6289159,
+          45.5148674
+        ]
+      },
+      "id": "node/8949962659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9192011423",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6410",
+        "addr:postcode": "H3W 2X3",
+        "addr:province": "Québec",
+        "addr:street": "Avenue de Westbury",
+        "amenity": "school",
+        "name": "École Mesivta Kerem Menachem",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6433433,
+          45.4923968
+        ]
+      },
+      "id": "node/9192011423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9194916996",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4730",
+        "addr:postcode": "H3W 1H7",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Van Horne",
+        "amenity": "place_of_worship",
+        "name": "Congregtation Zeirai Dath Vedaath",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6371114,
+          45.4945646
+        ]
+      },
+      "id": "node/9194916996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9194927223",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4691",
+        "addr:postcode": "H3W 1H8",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Van Horne",
+        "amenity": "place_of_worship",
+        "name": "Congrégation Sépharade Maghen David",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6370755,
+          45.4954449
+        ]
+      },
+      "id": "node/9194927223"
+    }
+  ]
+}
