@@ -36,6 +36,11 @@ Function 8:
 Function 9: 
 <br> Create a Scaled Map. Input the final dataframe that you wish to map with the column to be mapped. Arguments are dataframe which is the dataframe you wish to you, Column name as 'Column', max is the maximum limit of scale bar, min is the minimum limit of the scale bar, max and min need to be integer values, and path is the location for the function to save the image of the map that you will create. Included in the map are the axes limits on the figure, and a north arrow that is in a fixed location in the top left corner. 
 
+Function 10: 
+<br> Create a Graph of the data. There is a choice of scatter plot, histogram, bar chart or pie chart. To select a type of graph choose the type from 'scatter' for scatter plot, 'hist' for histogram, 'bar' for bar chart, or '0' for pie chart. Select the x and y values to be graphed, note hist and pie do not have a y value and none should be inputed. To add a title the title argument should appear as 'TITLE OF GRAPH' when calling the function.
+
+
+All these functions will work together to analyze the data that is given to it in different ways. Once the data has been analyzed and the desired results are found, the data is able to be plotted on a map or on a graph, depending on how to best represent visually the information that was found. 
 
 
 
